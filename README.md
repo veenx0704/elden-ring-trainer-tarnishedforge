@@ -1,9 +1,23 @@
-# Elden Ring "Trainer +49: God Mode, Runes, One Hit, HP/FP/Stamina" [v2.2.0]
+# Elden Ring Trainer (+49) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge) · [Скачать RU](https://moggydaytrainer.com/f/elden-ring-trainer-tarnishedforge) · [Elden Ring hub](https://moggydaytrainer.com/g/elden-ring) · [Elden Ring news](https://moggydaytrainer.com/g/elden-ring/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/elden-ring-trainer-tarnishedforge"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/elden-ring-trainer-tarnishedforge"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/elden-ring"><img alt="Game hub" src="https://img.shields.io/badge/Elden%20Ring%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
 
-If you want a **Elden Ring trainer** with god mode, health and the rest of the +49 list, use the canonical page [Elden Ring "Trainer +49: God Mode, Runes, One Hit, HP/FP/Stamina" [v2.2.0]](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge). GitHub is notes + pictures. The v2.2.0 heading, comments and file live on moggydaytrainer.com. Hub and patch notes: [Elden Ring hub](https://moggydaytrainer.com/g/elden-ring), [news](https://moggydaytrainer.com/g/elden-ring/news).
+MoggyDay hosts the official **Elden Ring** trainer for Windows (v2.2.0, **+49** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
+
+## About Elden Ring
+
+Elden Ring is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 1245620).
+
+## About the MoggyDay trainer
+
+If you want a Elden Ring trainer with god mode, health and the rest of the +49 list, use the canonical page [Elden Ring "Trainer +49: God Mode, Runes, One Hit, HP/FP/Stamina" [v2.2.0]](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge). GitHub is notes + pictures. The v2.2.0 heading, comments and file live on moggydaytrainer.com. Hub and patch notes: [Elden Ring hub](https://moggydaytrainer.com/g/elden-ring), [news](https://moggydaytrainer.com/g/elden-ring/news).
 
 ## Screenshots
 
@@ -19,35 +33,20 @@ Shots from the live [Elden Ring trainer page](https://moggydaytrainer.com/en/f/e
 
 [![Elden Ring options 3](https://moggydaytrainer.com/media/shots/hub-elden/fn-3.png)](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge)
 
-## Who this is for
+## Trainer features (+49)
 
-Aimed at offline / single-player Elden Ring. If a toggle stops working after a patch, check the same MoggyDay URL — the version string in the H1 is the source of truth, not this README date.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | Infinite HP | — | — | |
+| 2 | Infinite FP | — | — | |
+| 3 | FP Cost % | — | — | |
+| 4 | Infinite Stamina | — | — | |
+| 5 | Stamina Cost % | — | — | |
+| 6 | Stamina Regen Mul. EN/RU/CN… | — | — | |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge) |
-| Русский трейнер | [https://moggydaytrainer.com/f/elden-ring-trainer-tarnishedforge](https://moggydaytrainer.com/f/elden-ring-trainer-tarnishedforge) |
-| Game hub | [https://moggydaytrainer.com/g/elden-ring](https://moggydaytrainer.com/g/elden-ring) |
-| Trainers tab | [https://moggydaytrainer.com/g/elden-ring/trainers](https://moggydaytrainer.com/g/elden-ring/trainers) |
-| News | [https://moggydaytrainer.com/g/elden-ring/news](https://moggydaytrainer.com/g/elden-ring/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
-
-## Elden Ring trainer v2.2.0: +49 options
-
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
-
-| # | Option |
-|---|---|
-| 1 | Infinite HP |
-| 2 | Infinite FP |
-| 3 | FP Cost % |
-| 4 | Infinite Stamina |
-| 5 | Stamina Cost % |
-| 6 | Stamina Regen Mul. EN/RU/CN… |
-
-### What those toggles are for
+### Tips
 
 - **Infinite HP** — Usually the first toggle people enable on a Elden Ring trainer.
 - **Infinite FP** — Check this after every Elden Ring patch — values often shift.
@@ -56,56 +55,21 @@ Copy taken from the current MoggyDay description so this page does not drift fro
 - **Stamina Cost %** — Use it to skip a grind, then turn it back off.
 - **Stamina Regen Mul. EN/RU/CN…** — Read the live hotkey next to this name on MoggyDay.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge). GitHub stays a summary.
+## Download
 
-## How to download
+1. Open **[Elden Ring "Trainer +49: God Mode, Runes, One Hit, HP/FP/Stamina" [v2.2.0]](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge)** (or [Russian listing](https://moggydaytrainer.com/f/elden-ring-trainer-tarnishedforge), [Chinese listing](https://moggydaytrainer.com/zh/f/elden-ring-trainer-tarnishedforge)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a Elden Ring update, reload the same URL — the slug `/f/elden-ring-trainer-tarnishedforge` never moves.
 
-1. Open **[Elden Ring "Trainer +49: God Mode, Runes, One Hit, HP/FP/Stamina" [v2.2.0]](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge)** or **[Elden Ring «Трейнер +49: God Mode, руны, ваншот, HP/FP/Stamina» [v2.2.0]](https://moggydaytrainer.com/f/elden-ring-trainer-tarnishedforge)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a Elden Ring patch, reload the same URL. We do not publish binaries as GitHub Releases.
+## Install (Windows)
 
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `elden-ring-trainer-tarnishedforge.exe`.
+1. Close Elden Ring before trying a new build.
+2. Run only files from MoggyDay for `elden-ring-trainer-tarnishedforge`.
+3. Enable a few toggles first, not the entire +49 list.
+4. Keep a backup save before resource or progression edits.
 
-## What the screenshots show
-
-The first image is the Elden Ring cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge).
-
-## Install notes (Windows)
-
-1. Close Elden Ring before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `elden-ring-trainer-tarnishedforge`.
-3. Start the trainer, then start Elden Ring (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +49 list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the v2.2.0 heading is older than the Elden Ring build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/elden-ring-trainer-tarnishedforge` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a Elden Ring update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**Elden Ring «Трейнер +49: God Mode, руны, ваншот, HP/FP/Stamina» [v2.2.0]**
-
-Бесплатный трейнер Elden Ring MoggyDay +49 (v2.0.0): Режим бога, Бесконечное HP, Бесконечное FP, Стоимость FP %, Бесконечная стамина, Стоимость стамины %, Множитель ре…
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/elden-ring-trainer-tarnishedforge
-- Хаб Elden Ring: https://moggydaytrainer.com/g/elden-ring
-- Новости: https://moggydaytrainer.com/g/elden-ring/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -124,19 +88,23 @@ Yes — [Elden Ring «Трейнер +49: God Mode, руны, ваншот, HP/F
 **Why GitHub at all?**
 So `Elden Ring trainer` search has a documented page with screenshots that points at the real download, instead of a dead file host.
 
-## Search notes
 
-`elden ring трейнер`, `elden ring`, `elden ring ashes of war`, `elden ring cheat download`, `elden ring cheats`, `elden ring damage multiplier`, `elden ring god mode`, `elden ring hack`, `elden ring infinite fp`, `elden ring infinite health`, `elden ring infinite items`, `elden ring infinite stamina`, `elden ring level hack`, `elden ring no fall damage`, `elden ring one hit kill`, `elden ring runes hack`
+## Search terms (English)
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+`elden ring трейнер`, `elden ring`, `elden ring ashes of war`, `elden ring cheat download`, `elden ring cheats`, `elden ring damage multiplier`, `elden ring god mode`, `elden ring hack`, `elden ring infinite fp`, `elden ring infinite health`, `elden ring infinite items`, `elden ring infinite stamina`, `elden ring level hack`, `elden ring no fall damage`
+
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/elden-ring-trainer-tarnishedforge](https://moggydaytrainer.com/f/elden-ring-trainer-tarnishedforge)
+- Chinese page: [https://moggydaytrainer.com/zh/f/elden-ring-trainer-tarnishedforge](https://moggydaytrainer.com/zh/f/elden-ring-trainer-tarnishedforge)
 
 ## Other MoggyDay trainers
 
-- ![Disney Dreamlight Valley cover](https://cdn.akamai.steamstatic.com/steam/apps/1401590/library_600x900_2x.jpg) [Disney Dreamlight Valley trainer +47: energy, Star Coins, Dreamlight, garden and villagers [v1.0.0]](https://moggydaytrainer.com/en/f/disney-dreamlight-valley-trainer) · [RU](https://moggydaytrainer.com/f/disney-dreamlight-valley-trainer)
-- ![Destiny of Immortal cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377930/10b1c4b6be947115adb0854e666beb258d3750bc/library_capsule_2x.jpg) [Destiny of Immortal trainer +50: qi, cultivation, spirit stones and arts [v1.0.0]](https://moggydaytrainer.com/en/f/destiny-of-immortal-trainer) · [RU](https://moggydaytrainer.com/f/destiny-of-immortal-trainer)
-- ![Hell Clock cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782460/2bc0481b7e2f32a59f3951f0b91961d3b3fd699e/library_capsule_2x.jpg) [Hell Clock trainer +43: HP, fury, relics and gold [v1.0.0]](https://moggydaytrainer.com/en/f/hell-clock-trainer) · [RU](https://moggydaytrainer.com/f/hell-clock-trainer)
-- ![WARDOGS cover](https://moggydaytrainer.com/media/covers/wardogs-7ec494409e.jpg) [WARDOGS trainer +42: god mode, cash, weapons, ammo [v1.0.0]](https://moggydaytrainer.com/en/f/wardogs-trainer) · [RU](https://moggydaytrainer.com/f/wardogs-trainer)
+- [Nivalis Nights trainer +54: energy, nightlife mood, cash, tips, city rep [v1.0.0]](https://moggydaytrainer.com/en/f/nivalis-nights-trainer) · [RU](https://moggydaytrainer.com/f/nivalis-nights-trainer)
+- [Sniper Dan trainer +54: health, hold breath, stamina, mission pay, intel, ammo [v1.0.0]](https://moggydaytrainer.com/en/f/sniper-dan-trainer) · [RU](https://moggydaytrainer.com/f/sniper-dan-trainer)
+- [Wanderburg trainer +54: happiness, hunger, gold, wood, stone, food [v1.0.0]](https://moggydaytrainer.com/en/f/wanderburg-trainer) · [RU](https://moggydaytrainer.com/f/wanderburg-trainer)
+- [ReStory: Chill Electronics Repairs trainer +54: focus, tool charge, cash, spare parts, solder / flux [v1.0.0]](https://moggydaytrainer.com/en/f/restory-trainer) · [RU](https://moggydaytrainer.com/f/restory-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `Elden Ring trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge](https://moggydaytrainer.com/en/f/elden-ring-trainer-tarnishedforge). Screenshots hotlink MoggyDay `/media/` assets.
